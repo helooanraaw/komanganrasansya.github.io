@@ -127,7 +127,7 @@ body {
 #AnraPhoto img {
     width: 370px;
     border-radius: 10px;
-    filter: drop-shadow(10px 10px 30px rgba(0, 0, 0, 0.5));
+    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.5));
     -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0));
     mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 70%, rgba(0, 0, 0, 0));
 }
